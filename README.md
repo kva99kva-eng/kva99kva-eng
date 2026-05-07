@@ -1,16 +1,40 @@
-## Hi there 👋
+# Victoria Kupina
 
-<!--
-**kva99kva-eng/kva99kva-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Research / Product Analyst focused on neuroscience, sleep analytics and digital health.
 
-Here are some ideas to get you started:
+I build projects at the intersection of:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- EEG / fMRI / sleep data
+- machine learning
+- product analytics
+- interpretable model evaluation
+- digital health MVPs
+
+## Featured Projects
+
+### EEG Cognitive Load Detection
+Subject-independent EEG cognitive load classification with leakage analysis, spectral features, CNN baseline and Streamlit demo.
+
+### SleepMind AI
+Sleep-tech product analytics MVP with synthetic user-day data, product metrics, ML model, threshold analysis and rule-based AI sleep coach.
+
+### Psychiatric Brain Connectivity Analysis
+Exploratory fMRI functional connectivity analysis across psychiatric diagnostic groups.
+
+### Sleep Staging and Fragmentation Detection
+Sleep-EDF based sleep staging and fragmentation analysis with baseline ML and sleep quality metrics.
+
+## Core Skills
+
+- Python
+- SQL
+- Pandas / NumPy
+- Scikit-learn
+- Product analytics
+- Machine learning evaluation
+- EEG / fMRI / sleep data analysis
+- Streamlit dashboards
+
+## Focus
+
+I am interested in roles at the intersection of data analytics, neuroscience, sleep research, digital health and product analytics.
