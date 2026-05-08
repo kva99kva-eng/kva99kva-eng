@@ -1,6 +1,6 @@
 # Victoria Kupina
 
-Research / Product Analyst focused on neuroscience, sleep analytics and digital health.
+Research / Product Analyst focused on neuroscience and digital health.
 
 I build projects at the intersection of:
 
