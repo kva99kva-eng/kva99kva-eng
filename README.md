@@ -87,7 +87,7 @@ Key focus:
 
 ## Current Focus
 
-I am polishing a focused portfolio for junior / strong junior roles in:
+I am polishing a focused portfolio roles in:
 
 - data analytics;
 - research analytics;
