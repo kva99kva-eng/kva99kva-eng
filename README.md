@@ -12,6 +12,7 @@ I build data projects at the intersection of:
 
 ## What I bring
 
+- SQL / product analytics
 - I can turn an open-ended research question into a reproducible data analysis pipeline.
 - I focus on validation quality, leakage risks, class imbalance and honest limitations.
 - I combine research-style analysis with product thinking: metrics, dashboards, user behavior and decision-making.
@@ -73,16 +74,16 @@ Key focus:
 
 ## Core Skills
 
+- SQL / PostgreSQL
 - Python
-- SQL
-- Pandas / NumPy
-- Scikit-learn
-- Matplotlib
-- Product analytics
-- Machine learning evaluation
+- pandas / NumPy
+- product analytics
+- cohort analysis / retention / funnels
+- A/B testing
+- scikit-learn
+- machine learning evaluation
 - EEG / fMRI / sleep data analysis
 - Streamlit dashboards
-- Research interpretation and limitations
 
 ## Current Focus
 
