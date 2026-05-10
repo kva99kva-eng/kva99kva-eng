@@ -19,6 +19,10 @@ I build data projects at the intersection of:
 
 ## Featured Projects
 
+### SleepMind SQL Product Analytics
+
+PostgreSQL product analytics project for a synthetic sleep-tracking app: data quality checks, onboarding funnel, cohort retention, sleep improvement analysis, A/B test evaluation and churn-risk segmentation.
+
 ### EEG Cognitive Load Detection
 
 EEG cognitive load classification using spectral bandpower features, classical ML baselines, CNN modeling and Streamlit demo.
