@@ -2,11 +2,12 @@
 
 Research / Product Analyst focused on neuroscience and digital health.
 
-I build data projects at the intersection of:
+I build reproducible data projects at the intersection of:
 
+- SQL and product analytics
 - EEG / fMRI / sleep data
-- machine learning and model evaluation
-- product analytics
+- machine learning evaluation
+- leakage-aware validation
 - interpretable research workflows
 - digital health MVPs
 
@@ -22,55 +23,43 @@ I build data projects at the intersection of:
 
 ### SleepMind SQL Product Analytics
 
-PostgreSQL product analytics project for a synthetic sleep-tracking app: data quality checks, onboarding funnel, cohort retention, sleep improvement analysis, A/B test evaluation and churn-risk segmentation.
+PostgreSQL product analytics case for a synthetic sleep-tracking app.
+
+**Focus:** SQL, cohort retention, onboarding funnel, A/B testing, churn-risk segmentation, business recommendations.
+
+This project demonstrates how I translate product event data into decisions: activation opportunities, acquisition channel quality, retention analysis and lifecycle interventions.
 
 ### EEG Cognitive Load Detection
 
-EEG cognitive load classification using spectral bandpower features, classical ML baselines, CNN modeling and Streamlit demo.
+EEG cognitive load classification project using spectral bandpower features, classical ML baselines, CNN modeling and Streamlit demo.
 
-Key focus:
+**Focus:** EEG, ML validation, leakage analysis, subject-independent validation, feature importance.
 
-- subject-independent validation;
-- comparison with window-level validation;
-- leakage risk analysis;
-- feature importance by EEG band and channel;
-- model comparison between ML and CNN.
+The key part of this project is the comparison between optimistic window-level validation and more realistic subject-independent validation.
 
 ### SleepMind AI
 
-Sleep-tech product analytics MVP with synthetic user-day data, product metrics, ML-based sleep quality prediction, threshold analysis and rule-based AI sleep coach.
+Sleep-tech product analytics and ML MVP with synthetic user-day data, sleep-quality prediction, threshold analysis, Streamlit dashboard and rule-based AI sleep coach.
 
-Key focus:
+**Focus:** product metrics, ML evaluation, threshold tuning, dashboarding, safe non-medical AI logic.
 
-- product metrics for a sleep coaching app;
-- ML model evaluation under class imbalance;
-- threshold tuning;
-- Streamlit dashboard;
-- safe non-medical AI coaching logic.
+This project shows how ML outputs can be connected to product decisions and user-facing recommendations.
 
 ### Psychiatric Brain Connectivity Analysis
 
-Exploratory fMRI functional connectivity analysis across psychiatric diagnostic groups.
+Exploratory resting-state fMRI functional connectivity analysis across psychiatric diagnostic groups.
 
-Key focus:
+**Focus:** fMRI, connectivity matrices, permutation testing, FDR correction, research interpretation.
 
-- resting-state fMRI connectivity matrices;
-- group comparison;
-- permutation testing;
-- FDR correction;
-- careful interpretation of small-sample exploratory results.
+This project demonstrates a reproducible neuroscience workflow with careful limitations and no overclaiming.
 
 ### Sleep Staging and Fragmentation Detection
 
-Sleep-EDF based sleep staging and fragmentation analysis with baseline ML and sleep-quality metrics.
+Sleep-EDF based sleep-staging and fragmentation-analysis project.
 
-Key focus:
+**Focus:** hypnogram processing, sleep-stage classification, confusion matrix analysis, fragmentation metrics.
 
-- hypnogram processing;
-- sleep-stage classification;
-- confusion matrix analysis;
-- sleep-fragmentation metrics;
-- true vs predicted fragmentation comparison.
+This project connects baseline sleep-stage predictions with downstream sleep-quality metrics.
 
 ## Core Skills
 
@@ -87,7 +76,7 @@ Key focus:
 
 ## Current Focus
 
-I am polishing a focused portfolio roles in:
+I am building a focused portfolio for roles in:
 
 - data analytics;
 - research analytics;
