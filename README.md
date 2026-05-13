@@ -1,89 +1,182 @@
 # Victoria Kupina
 
-Research / Product Analyst focused on neuroscience and digital health.
+**Research / Data Analyst | Systems & Signal Processing | Product & BI Analytics**
 
-I build reproducible data projects at the intersection of:
+I work at the intersection of research analytics, data analysis and systems thinking: I break down complex domains, build reproducible Python/SQL workflows, analyze time-series data and turn fragmented information into structured analytical conclusions.
 
-- SQL and product analytics
-- EEG / fMRI / sleep data
-- machine learning evaluation
-- leakage-aware validation
-- interpretable research workflows
-- digital health MVPs
+My focus is not only to calculate metrics or build dashboards, but to understand **how a system works, what data it generates, what measurement limitations exist and what conclusions can be made without overstating the result**.
 
-## What I bring
+---
 
-- SQL / product analytics
-- I can turn an open-ended research question into a reproducible data analysis pipeline.
-- I focus on validation quality, leakage risks, class imbalance and honest limitations.
-- I combine research-style analysis with product thinking: metrics, dashboards, user behavior and decision-making.
-- I am especially interested in sleep, cognitive load, neurotechnology, mental health analytics and digital health products.
+## Core positioning
 
-## Featured Projects
+### Research / Systems Analysis
 
-### SleepMind SQL Product Analytics
+- analysis of technical and scientific sources;
+- structuring of complex subject domains;
+- preparation of concise analytical conclusions, limitations and recommendations;
+- comparison of approaches, trade-offs and potential risks.
 
-PostgreSQL product analytics case for a synthetic sleep-tracking app.
+### Data / BI Analytics
 
-**Focus:** SQL, cohort retention, onboarding funnel, A/B testing, churn-risk segmentation, business recommendations.
+- SQL / PostgreSQL;
+- analytical data marts and metric logic;
+- cohort analysis, retention analysis, funnel analysis and A/B testing;
+- data quality checks and reproducible reporting.
 
-This project demonstrates how I translate product event data into decisions: activation opportunities, acquisition channel quality, retention analysis and lifecycle interventions.
+### Signal & Time-Series Analysis
 
-### EEG Cognitive Load Detection
+- time-series and event-data analysis;
+- detection of periodic structure in noisy observations;
+- phase reconstruction and signal interpretation;
+- work with data limitations, noise and incomplete measurements.
 
-EEG cognitive load classification project using spectral bandpower features, classical ML baselines, CNN modeling and Streamlit demo.
+---
 
-**Focus:** EEG, ML validation, leakage analysis, subject-independent validation, feature importance.
+## Featured projects
 
-The key part of this project is the comparison between optimistic window-level validation and more realistic subject-independent validation.
+### 1. Pulsar Timing & Simplified XNAV Demonstration
 
-### SleepMind AI
+**Repository:** https://github.com/kva99kva-eng/pulsar
 
-Sleep-tech product analytics and ML MVP with synthetic user-day data, sleep-quality prediction, threshold analysis, Streamlit dashboard and rule-based AI sleep coach.
+Research-style project based on Vela pulsar photon event data.
 
-**Focus:** product metrics, ML evaluation, threshold tuning, dashboarding, safe non-medical AI logic.
+The project demonstrates a full analytical workflow:
 
-This project shows how ML outputs can be connected to product decisions and user-facing recommendations.
+- loading and inspecting FITS photon event data;
+- preprocessing photon arrival-time observations;
+- detecting a dominant pulsation period;
+- building folded pulse profiles;
+- demonstrating simplified phase-shift logic behind X-ray pulsar navigation.
 
-### Psychiatric Brain Connectivity Analysis
+**Why it matters:** this project shows how I approach physical and engineering data: not as a generic dataset, but as an indirect observation of a real system with noise, constraints and interpretation limits.
 
-Exploratory resting-state fMRI functional connectivity analysis across psychiatric diagnostic groups.
+---
 
-**Focus:** fMRI, connectivity matrices, permutation testing, FDR correction, research interpretation.
+### 2. SleepMind SQL Product Analytics
 
-This project demonstrates a reproducible neuroscience workflow with careful limitations and no overclaiming.
+**Repository:** https://github.com/kva99kva-eng/sleepmind-sql-product-analytics
 
-### Sleep Staging and Fragmentation Detection
+PostgreSQL product analytics project for a synthetic sleep-tracking product.
 
-Sleep-EDF based sleep-staging and fragmentation-analysis project.
+Focus areas:
 
-**Focus:** hypnogram processing, sleep-stage classification, confusion matrix analysis, fragmentation metrics.
+- data model design;
+- cohort retention;
+- onboarding funnel;
+- A/B test evaluation;
+- churn-risk segmentation;
+- product recommendations based on SQL analysis.
 
-This project connects baseline sleep-stage predictions with downstream sleep-quality metrics.
+**Why it matters:** this project demonstrates BI / Data Platform skills: analytical tables, product metrics, segmentation logic and structured business conclusions.
 
-## Core Skills
+---
 
-- SQL / PostgreSQL
+### 3. SleepMind AI
+
+**Repository:** https://github.com/kva99kva-eng/sleepmind-ai
+
+Product analytics + ML project for a sleep-tech MVP.
+
+Focus areas:
+
+- synthetic user-day dataset;
+- product metrics;
+- ML baseline for sleep quality prediction;
+- threshold analysis;
+- rule-based AI sleep coach logic.
+
+**Why it matters:** this project connects product analytics, interpretable ML evaluation and product decision-making.
+
+---
+
+### 4. EEG Cognitive Load Detection
+
+**Repository:** https://github.com/kva99kva-eng/eeg-cognitive-load-detection
+
+EEG cognitive-load classification project with signal features, ML baselines and validation strategy.
+
+Focus areas:
+
+- spectral features;
+- subject-independent validation;
+- leakage analysis;
+- baseline ML models;
+- Streamlit demo.
+
+---
+
+### 5. Sleep Staging and Fragmentation Detection
+
+**Repository:** https://github.com/kva99kva-eng/Sleep-Staging-Fragmentation-Detection
+
+Sleep-EDF based project focused on sleep staging, sleep fragmentation and sleep quality metrics.
+
+Focus areas:
+
+- sleep-stage data processing;
+- fragmentation metrics;
+- sleep-quality feature extraction;
+- reproducible notebook-based analysis.
+
+---
+
+### 6. Psychiatric Brain Connectivity Analysis
+
+**Repository:** https://github.com/kva99kva-eng/psychiatric-brain-connectivity-analysis
+
+Exploratory fMRI functional-connectivity analysis across diagnostic groups.
+
+Focus areas:
+
+- functional-connectivity matrices;
+- group-level comparisons;
+- statistical testing;
+- careful interpretation of limitations.
+
+---
+
+## Skills
+
+### Programming / Data
+
 - Python
+- SQL / PostgreSQL
 - pandas / NumPy
-- product analytics
-- cohort analysis / retention / funnels
-- A/B testing
+- SciPy
+- Matplotlib
 - scikit-learn
-- machine learning evaluation
-- EEG / fMRI / sleep data analysis
-- Streamlit dashboards
+- Jupyter Notebook
 
-## Current Focus
+### Research / Analytics
 
-I am building a focused portfolio for roles in:
+- data cleaning and EDA;
+- time-series analysis;
+- signal-processing basics;
+- period detection and phase analysis;
+- cohort / retention / funnel analysis;
+- A/B testing;
+- ML evaluation;
+- leakage-aware validation;
+- statistical interpretation of limitations.
 
-- data analytics;
-- research analytics;
-- product analytics;
-- healthtech / digital health analytics;
-- neuroscience and sleep-tech analytics.
+### Communication
 
-## Portfolio Direction
+- technical documentation;
+- research summaries;
+- analytical reports;
+- README / project documentation;
+- translation of technical findings into clear conclusions for both technical and non-technical audiences.
 
-My goal is to work on data problems where behavioral, physiological or product data can be translated into clear insights, validated models and useful user-facing decisions.
+---
+
+## Current focus
+
+I am currently focused on roles where analytics is close to research, engineering and systems thinking:
+
+- Research Analyst;
+- Data / BI Analyst;
+- Systems Analyst;
+- Аnalytics roles in space-tech, digital health or complex technical products.
+
+I am especially interested in projects where data reflects the behavior of a real technical, physical or product system — and where analysis requires both computation and careful interpretation.
